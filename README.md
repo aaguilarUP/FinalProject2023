@@ -3,7 +3,7 @@
 # Advanced Programming class
 # Prof. Eduardo Sanchez de Alba
 
-# Angel Aguilar Salazar and Henrik Axel de la Rosa
+# Elaborated by Angel Aguilar Salazar and Henrik Axel de la Rosa
 # December 8, 2023
 
 #This project was elaborated for the Advanced Programming class
